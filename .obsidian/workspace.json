@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "870749140a2e52af",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ec1833bdbd948cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc2696d950559fa0",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "nodes/weekly/2024/W50.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (W50)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b996ef7b9de7c637",
+    "type": "split",
+    "children": [
+      {
+        "id": "912919d65de04e63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94f8d09ee3b38676",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ddf1c22273f7d30c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c63d2873f0f1402",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2743d2dac4f89e4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md"
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          },
+          {
+            "id": "9bd96163f18ebeb4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "weather-fetcher:Insert Weather": false,
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open this week": false
+    }
+  },
+  "active": "cc2696d950559fa0",
+  "lastOpenFiles": [
+    "nodes/weekly/2024/W50.md",
+    "template/Weekly.md",
+    "新建文件夹",
+    "nodes/weekly/2024",
+    "nodes/weekly",
+    "nodes",
+    "template"
+  ]
+}
